@@ -11,5 +11,5 @@ a simple maintenance page w/ a contact form and font awesome library
 - I mean really? 
 
 ## Donate
-- You can donate to me if you want to see more free templates via paypal.
+- You can donate to me via paypal if you want to see more free templates
 
